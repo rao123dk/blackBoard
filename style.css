@@ -1,0 +1,24 @@
+html{
+	font-family: "Avenir Next", Helevetica, sans-serif;
+	text-align: center;
+}
+
+body {
+	margin: 10 auto;
+} 
+
+
+
+#draw{
+    padding: 25px 50px 75px 100px;
+    border: 1px solid black;
+}
+button.btnsize{
+    height:40px;
+    width:100px;
+    color:Blue; 
+}
+.resizedTextbox{
+    width: 250px;
+    height: 35px;
+}
